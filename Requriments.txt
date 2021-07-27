@@ -1,0 +1,10 @@
+first install pip in pc 
+
+install modules 
+
+ pyttsx3            -pip install  pyttsx3 
+ speech_recognition -pip install speech_recognition 
+ wikipedia          -pip install wikipedia 
+ pywhatkit          -pip install pywhatkit
+ json               -pip install json
+  
