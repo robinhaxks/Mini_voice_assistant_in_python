@@ -1,0 +1,12 @@
+            ------Features of jarvis---------
+            
+            
+            1.wishes
+            2.play number guessing game 
+            3.send a email
+            4.send a whatsapp message 
+            5.get an weather report of any country
+            6.wikipedia search
+            7.control browswer by command
+            8.play music
+            
